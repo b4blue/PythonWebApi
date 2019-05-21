@@ -1,2 +1,2 @@
 # PythonWebApi
-Exercise in python webapi with flash and pymongo
+Exercise in python webapi with flask and pymongo
